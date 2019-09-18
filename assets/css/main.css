@@ -287,6 +287,10 @@ input, select, textarea {
 		height: 200px;
 	}
 
+	.project_link {
+		color: #0062DB;
+	}
+	
 	.row {
 		display: flex;
 		flex-wrap: wrap;
