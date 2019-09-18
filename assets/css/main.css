@@ -283,6 +283,9 @@ input, select, textarea {
 		}
 
 /* Row */
+	.imgSkills {
+		height: 200px;
+	}
 
 	.row {
 		display: flex;
