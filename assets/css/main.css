@@ -2000,8 +2000,18 @@ input, select, textarea {
 		text-align: center;
 	}
 
+		.intro_text {
+			background: #6ddafd;
+			color: #7b7b2d;
+			font-weight: 600;
+		}
+
+		.wrapper_intro {
+			color: #7b7b2d;
+		}
+
 		.wrapper.style1 {
-			background-image: none;
+			background-image: url("../../images/nyc copy.jpg");
 			background-color: #fff;
 		}
 
