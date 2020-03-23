@@ -2001,15 +2001,12 @@ input, select, textarea {
 	}
 
 		.intro_text {
-			background: #6ddafd;
-			color: #7b7b2d;
-			font-weight: 600;
+			text-align: center;
 		}
 
-		.wrapper_intro {
-			color: #7b7b2d;
+		.wrapper.style0 {
+			background-color: #fafafa;
 		}
-
 		.wrapper.style1 {
 			background-image: url("../../images/nyc copy.jpg");
 			background-color: #fff;
